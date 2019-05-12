@@ -1,6 +1,6 @@
 # DTranslate
 
-![](https://raw.githubusercontent.com/aliilkom/DTranslate/master/Dokumentasi/DTranslate.png)
+![](https://raw.githubusercontent.com/aliilkom/Markdown/master/Dokumentasi/DTranslate.png)
 
 Dillinger is a cloud-enabled, mobile-ready, offline-storage, AngularJS powered HTML5 Markdown editor.
 
