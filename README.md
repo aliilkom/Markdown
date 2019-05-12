@@ -21,11 +21,10 @@ client dengan penerjemah.
 ## Ruang Lingkup
 
   - Proyek DTranslate akan dikembangkan kurang lebih 3 bulan 
-  - Menggunakan framework laravel dengan object oriented programming
-![](https://raw.githubusercontent.com/aliilkom/Markdown/master/Dokumentasi/Laravel.png)
   - Perangkat lunak ini diperuntukan bagi pengguna untuk mencari penerjemah dokumen atau gambar
   - Selain itu, proyek ini diperuntukkan bagi penerjemah yang mencari pekerjaan dalam penerjemahan dokumen
-
+  - Menggunakan framework laravel dengan object oriented programming
+![](https://raw.githubusercontent.com/aliilkom/Markdown/master/Dokumentasi/Laravel.png)
 
 ## Deskripsi Singkat
 
